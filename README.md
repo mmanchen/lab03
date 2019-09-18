@@ -56,4 +56,6 @@ Liga de Quito was founded in the city of Quito, the capital city of Ecuador.
 In 1997, LDU inaugurated their own stadium, Estadio Casa Blanca, in the northern part of the city. It is the largest stadium in Quito in terms of capacity, and the second largest in Ecuador after the Estadio Monumental Banco Pichincha in Guayaquil. 
 ## Uniform
 Dr. León designed the first uniform, placing its crest, a white "U" on an inverted red and blue triangle, on a white shirt, honoring the team's beginnings at the university.
+
+
 ![Liga de Quito](ldu.jpg)
