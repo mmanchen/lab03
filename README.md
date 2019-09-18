@@ -25,7 +25,7 @@ Real Madrid
 On 6 March 1902, after a new Board presided by Juan Padrós had been elected, Madrid Football Club was officially founded.
 ### City 
 Real Madrid Club was founded in the city of Madrid, Spain, located in the autonomous community of Madrid. 
-![Real Madrid](real-madrid.jpg)
+![Real Madrid](real-madrid.jpeg)
 ## Stadium
 The Santiago Bernabéu Stadium is a football stadium in Madrid, Spain. With a current seating capacity of 81,044, it has been the home stadium of Real Madrid since its completion in 1947.[2]
 ## Uniform
