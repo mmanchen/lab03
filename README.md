@@ -25,6 +25,7 @@ Real Madrid
 On 6 March 1902, after a new Board presided by Juan Padrós had been elected, Madrid Football Club was officially founded.
 ### City 
 Real Madrid Club was founded in the city of Madrid, Spain, located in the autonomous community of Madrid. 
+![Real Madrid](real-madrid.jpg)
 ## Stadium
 The Santiago Bernabéu Stadium is a football stadium in Madrid, Spain. With a current seating capacity of 81,044, it has been the home stadium of Real Madrid since its completion in 1947.[2]
 ## Uniform
@@ -39,6 +40,7 @@ On 3 April 1905, a group of Greek and Italian boys (more specifically from Genoa
 Boca Juniors was founded in Buenos Aires, Argentina, in one of the most famous neighborhoods known as Barrio La Boca. 
 ## Stadium
 Boca's home stadium is Estadio Alberto J. Armando, which is colloquially known as La Bombonera.
+![Boca Juniors](boca-juniors.jpg)
 ## Uniform
 According to the club's official site, the original jersey colour was a white shirt with thin black vertical stripes, being then replaced by a light blue shirt and then another striped jersey before adopting the definitive blue and gold.
 
@@ -54,8 +56,4 @@ Liga de Quito was founded in the city of Quito, the capital city of Ecuador.
 In 1997, LDU inaugurated their own stadium, Estadio Casa Blanca, in the northern part of the city. It is the largest stadium in Quito in terms of capacity, and the second largest in Ecuador after the Estadio Monumental Banco Pichincha in Guayaquil. 
 ## Uniform
 Dr. León designed the first uniform, placing its crest, a white "U" on an inverted red and blue triangle, on a white shirt, honoring the team's beginnings at the university.
-
-
-
-###Images
-![Test Image 1](boca-juniors.jpg)
+![Liga de Quito](ldu.jpg)
