@@ -4,16 +4,18 @@ Maria Mancheno
 Under this page I will refer to different and historic soccer teams in different cities of the world. Since they are historic they have different founding dates but they go back to old days. Just like any team each of them has a astadium where they play in and a soccer uniform for each of the players. 
 
 ## Ontology
+* Each soccer team has a name
 * Each soccer team has a date and place of foundation
 * Each soccer team has a stadium 
 * Each soccer team has a kit and a badge
 
 ## Taxonomy
-* Origin
-	* Year 
-	* City 
-* Stadium
-* Uniform
+* Name
+	* Origin
+		* Year 
+		* City 
+	* Stadium
+	* Uniform
 
 ## Coreography
 The order is based on starting with the oldest soccer club in this case Real Madrid to the latest one being Liga de Quito. The information starts with each of the club's origin, then the stadium since it is such an important place for the team (usually built around the same years as the club's foundation) and lastly the uniforms, since they usually undergo a lot of changes from year to year. 
